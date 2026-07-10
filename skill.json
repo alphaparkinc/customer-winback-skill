@@ -1,8 +1,8 @@
 {
   "name": "customer-winback-skill",
   "version": "1.0.0",
-  "description": "Identify lapsed customers, score their win-back potential, generate personalized re-engagement offers, and build win-back email sequences.",
-  "author": "alphaparkinc",
+  "description": "GenPark AI Agent Skill - Identify lapsed customers, score their win-back potential, generate personalized re-engagement offers, and build win-back email sequences.",
+  "author": "genpark",
   "category": "retention",
   "tags": [
     "winback",
