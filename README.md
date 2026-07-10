@@ -1,4 +1,4 @@
-# customer-winback-skill
+# genpark-customer-winback-skill
 
 > **GenPark AI Agent Skill** -- Identify lapsed customers, score win-back potential, generate personalized offers, and build re-engagement email sequences.
 
